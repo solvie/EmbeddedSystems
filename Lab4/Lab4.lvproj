@@ -3,8 +3,8 @@
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{05047409-08B3-4CEC-B03C-7CB8D5F1B222}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets</Property>
 	<Property Name="varPersistentID:{937362FB-4695-48E5-B120-A94E54EEF94C}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input Data</Property>
+	<Property Name="varPersistentID:{D4F462CF-FF9E-4878-97C0-5D5CE56228DF}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_OH</Property>
 	<Property Name="varPersistentID:{D921B8F3-12D9-4DA1-A2BC-957FAB0BDF06}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Weights</Property>
-	<Property Name="varPersistentID:{EBD0EB3C-EB43-4D0B-B805-62C56FAF0125}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_OH</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
