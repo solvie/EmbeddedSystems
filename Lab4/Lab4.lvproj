@@ -23,6 +23,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="load_from_file.vi" Type="VI" URL="../load_from_file.vi"/>
+		<Item Name="load_I_T_from_file.vi" Type="VI" URL="../load_I_T_from_file.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
