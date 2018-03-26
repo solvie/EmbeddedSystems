@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{05047409-08B3-4CEC-B03C-7CB8D5F1B222}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets</Property>
+	<Property Name="varPersistentID:{76EB6194-746F-436A-8619-8C399BFDBF5A}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input_Shuffled</Property>
 	<Property Name="varPersistentID:{937362FB-4695-48E5-B120-A94E54EEF94C}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input Data</Property>
 	<Property Name="varPersistentID:{D4F462CF-FF9E-4878-97C0-5D5CE56228DF}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_OH</Property>
 	<Property Name="varPersistentID:{D921B8F3-12D9-4DA1-A2BC-957FAB0BDF06}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Weights</Property>
@@ -32,6 +33,8 @@
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
 				<Item Name="compatReadText.vi" Type="VI" URL="/&lt;vilib&gt;/_oldvers/_oldvers.llb/compatReadText.vi"/>
 				<Item Name="Find First Error.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find First Error.vi"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="Open File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Open File+.vi"/>
 				<Item Name="Read Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (DBL).vi"/>
 				<Item Name="Read Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet (I64).vi"/>
@@ -40,6 +43,7 @@
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
 			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
