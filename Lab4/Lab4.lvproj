@@ -28,11 +28,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="BackwardsPropagation.vi" Type="VI" URL="../BackwardsPropagation.vi"/>
 		<Item Name="ForwardPropagation.vi" Type="VI" URL="../ForwardPropagation.vi"/>
-		<Item Name="load_from_file.vi" Type="VI" URL="../load_from_file.vi"/>
 		<Item Name="load_I_T_from_file.vi" Type="VI" URL="../load_I_T_from_file.vi"/>
 		<Item Name="PositionNetTrainer.vi" Type="VI" URL="../PositionNetTrainer.vi"/>
 		<Item Name="RunPositionNet.vi" Type="VI" URL="../RunPositionNet.vi"/>
-		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
