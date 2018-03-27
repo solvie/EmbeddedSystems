@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{05047409-08B3-4CEC-B03C-7CB8D5F1B222}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets</Property>
+	<Property Name="varPersistentID:{12933159-7549-4869-8B3E-20E734FCF203}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Final_Weights</Property>
 	<Property Name="varPersistentID:{76EB6194-746F-436A-8619-8C399BFDBF5A}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input_Shuffled</Property>
 	<Property Name="varPersistentID:{937362FB-4695-48E5-B120-A94E54EEF94C}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input Data</Property>
 	<Property Name="varPersistentID:{A38E7086-F921-4C8B-8984-0A02582060BD}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_Shuffled</Property>
