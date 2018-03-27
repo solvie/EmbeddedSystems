@@ -8,11 +8,11 @@ Click OK to select 'input_data' first, followed by 'targets'. The Inputs Shuffle
 **IF one of the arrays is empty after running the VI, you may need to repeat STEP 1 again. After the second import all the data will be imported and ready to use**
 
 STEP 2:
-Next open the 'PositionNetTrainer.vi' and run it. You have the option to stop training at any point by pressing the stop button. You can also pause and unpause training by clicking the "Continue" button.
+Next open the 'PositionNetTrainer.vi' and run it. You can also pause and unpause training by clicking the "Continue" button. You have the option to stop training at any point by pressing the stop button. 
 
 STEP 3:
 Finally open the 'PositionNet.vi', the weights computed in the previous step will automatically be used. Run the VI and use the RIO board to see if all three positions can be properly detected.
 
 
-URL to Video:
+URL to Video: www.youtube.com/watch?v=KZTBKyNbq6U
 
