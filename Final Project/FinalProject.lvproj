@@ -4,6 +4,7 @@
 	<Property Name="varPersistentID:{05047409-08B3-4CEC-B03C-7CB8D5F1B222}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets</Property>
 	<Property Name="varPersistentID:{12933159-7549-4869-8B3E-20E734FCF203}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Final_Weights</Property>
 	<Property Name="varPersistentID:{76EB6194-746F-436A-8619-8C399BFDBF5A}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input_Shuffled</Property>
+	<Property Name="varPersistentID:{92E8EC8D-A8B8-40B5-9280-F7B8ABCB57D1}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Collected_Data</Property>
 	<Property Name="varPersistentID:{937362FB-4695-48E5-B120-A94E54EEF94C}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input Data</Property>
 	<Property Name="varPersistentID:{A38E7086-F921-4C8B-8984-0A02582060BD}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_Shuffled</Property>
 	<Property Name="varPersistentID:{D4F462CF-FF9E-4878-97C0-5D5CE56228DF}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_OH</Property>
@@ -31,6 +32,7 @@
 		<Item Name="load_I_T_from_file.vi" Type="VI" URL="../load_I_T_from_file.vi"/>
 		<Item Name="PositionNetTrainer.vi" Type="VI" URL="../PositionNetTrainer.vi"/>
 		<Item Name="RunPositionNet.vi" Type="VI" URL="../RunPositionNet.vi"/>
+		<Item Name="save_collection.vi" Type="VI" URL="../save_collection.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Close File+.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Close File+.vi"/>
@@ -45,6 +47,11 @@
 				<Item Name="Read Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Delimited Spreadsheet.vi"/>
 				<Item Name="Read File+ (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read File+ (string).vi"/>
 				<Item Name="Read Lines From File (with error IO).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Read Lines From File (with error IO).vi"/>
+				<Item Name="Write Delimited Spreadsheet (DBL).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (DBL).vi"/>
+				<Item Name="Write Delimited Spreadsheet (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (I64).vi"/>
+				<Item Name="Write Delimited Spreadsheet (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet (string).vi"/>
+				<Item Name="Write Delimited Spreadsheet.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Delimited Spreadsheet.vi"/>
+				<Item Name="Write Spreadsheet String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write Spreadsheet String.vi"/>
 			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
