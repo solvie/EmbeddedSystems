@@ -7,8 +7,10 @@
 	<Property Name="varPersistentID:{92E8EC8D-A8B8-40B5-9280-F7B8ABCB57D1}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Collected_Data_inputs</Property>
 	<Property Name="varPersistentID:{937362FB-4695-48E5-B120-A94E54EEF94C}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Input Data</Property>
 	<Property Name="varPersistentID:{A38E7086-F921-4C8B-8984-0A02582060BD}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_Shuffled</Property>
+	<Property Name="varPersistentID:{D2AD4906-4AE2-4B10-AE60-4F152F82500D}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Weights_1</Property>
 	<Property Name="varPersistentID:{D4F462CF-FF9E-4878-97C0-5D5CE56228DF}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Targets_OH</Property>
 	<Property Name="varPersistentID:{D921B8F3-12D9-4DA1-A2BC-957FAB0BDF06}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Weights</Property>
+	<Property Name="varPersistentID:{E7D0C934-444C-4618-97DB-F5BFBD8C4D07}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Final_Weights_2</Property>
 	<Property Name="varPersistentID:{FC44BB7D-0802-4AC8-A24C-A0C54F7CA2DE}" Type="Ref">/NI-myRIO-1900-030368ab/generated_data.lvlib/Collected_Data_outputs</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
