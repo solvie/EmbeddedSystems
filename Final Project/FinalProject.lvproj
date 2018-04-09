@@ -1593,6 +1593,7 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Data_Collection.vi" Type="VI" URL="../Data_Collection.vi"/>
 		<Item Name="generated_data.lvlib" Type="Library" URL="../generated_data.lvlib"/>
+		<Item Name="NumberDetector.vi" Type="VI" URL="../NumberDetector.vi"/>
 		<Item Name="PositionNet.vi" Type="VI" URL="../PositionNet.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
