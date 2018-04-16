@@ -30,7 +30,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="BackwardsPropagation.vi" Type="VI" URL="../BackwardsPropagation.vi"/>
+		<Item Name="BackwardsPropLR.vi" Type="VI" URL="../BackwardsPropLR.vi"/>
 		<Item Name="ForwardPropagation.vi" Type="VI" URL="../ForwardPropagation.vi"/>
 		<Item Name="load_I_T_from_file.vi" Type="VI" URL="../load_I_T_from_file.vi"/>
 		<Item Name="PositionNetTrainer.vi" Type="VI" URL="../PositionNetTrainer.vi"/>
